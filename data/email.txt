@@ -1,0 +1,3 @@
+From: john.doe@example.com
+To: team@example.com
+Subject: Meeting Reminder

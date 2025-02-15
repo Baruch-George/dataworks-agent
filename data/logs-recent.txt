@@ -1,0 +1,3 @@
+"First line of log3"
+"First line of log2"
+"First line of log1"
